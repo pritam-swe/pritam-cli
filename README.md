@@ -63,6 +63,9 @@ SYSTEM
 ```bash
 npx pritam-cli
 ```
+```bash
+npm i pritam-cli
+```
 
 ### Install globally
 

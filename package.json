@@ -11,11 +11,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/pritam-swe/pritam-cli.git"
+    "url": "git+https://github.com/pritam-swe/pritam-cli.git"
   },
-  "homepage": "https://github.com/pritam-swe/pritam-cli.git#readme",
+  "homepage": "https://github.com/pritam-swe/pritam-cli#readme",
   "bin": {
-    "pritam-cli": "./src/index.js"
+    "pritam-cli": "src/index.js"
   },
   "files": [
     "src"
