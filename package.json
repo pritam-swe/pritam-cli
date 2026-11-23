@@ -10,9 +10,10 @@
     "node"
   ],
   "repository": {
-  "type": "git",
-  "url": "https://github.com/pritam-swe/pritam-cli.git"
-},
+    "type": "git",
+    "url": "https://github.com/pritam-swe/pritam-cli.git"
+  },
+  "homepage": "https://github.com/pritam-swe/pritam-cli.git#readme",
   "bin": {
     "pritam-cli": "./src/index.js"
   },

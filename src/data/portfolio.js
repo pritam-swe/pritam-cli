@@ -70,7 +70,7 @@ export const portfolio = {
         codeforces: "https://codeforces.com/profile/ipritam9",
         atcoder: "https://atcoder.jp/users/ipritam9",
         email: "pritam.swe.ai@gmail.com",
-        resume: "",
+        resume: "https://github.com/pritam-swe",
     }
 
 };
